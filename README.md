@@ -1,7 +1,12 @@
 # Photography-Page
 
-This is a simple webpage made using the pure HTML and CSS for practicing.Also I have added some of the media queries to for the responsiveness.
+This is a simple web page that uses pure HTML and CSS for practice. I have also added some media queries for responsiveness.
 
-If any changes or any betterment in this page then you can message me on LinkedIn-Samijagirdar or you can suggest me in GitHub Issues or GitHub Discussions
+If any changes or any betterment on this page then you can message me on LinkedIn or you can suggest me in GitHub Issues or GitHub Discussions
 
 Thank you.....
+
+LinkedIn - www.linkedin.com/in/sami-j-898414124
+
+GitHub - https://github.com/Samijagirdar
+
